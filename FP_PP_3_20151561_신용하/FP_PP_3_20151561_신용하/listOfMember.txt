@@ -1,0 +1,13 @@
+12
+TestUser|T1234|a|a|a|0000000000|9
+a|a|a|a|a|0000000000|9
+bb|bb|bb|bb|bb|0000000001|9
+ccc|ccc|ccc|ccc|ccc|0000000002|9
+dddd|dddd|dddd|dddd|dddd|0000000003|9
+eeeee|eeeee|eeeee|eeeee|eeeee|0000000004|9
+fffff|fffff|fffff|fffff|fffff|0000000005|9
+gggg|gggg|gggg|gggg|gggg|0000000006|9
+hhh|hhh|hhh|hhh|hhh|0000000007|9
+ii|ii|ii|ii|ii|0000000008|9
+j|j|j|j|j|0000000009|9
+admin|adminpass|a|a|a|0000000000|1
